@@ -1,3 +1,15 @@
+Mayan-DS
+========
+Mayan-DS is a framework for Software-Defined Data Services. It extends OpenDaylight Messaging4Transport (SDN+MOM) and uses IMDGs and NoSQL data stores in conjunction to build network-aware big data workflows.
+
+In Progress
+===========
+Docker containers consisting of the Mayan-DS infrastructure (optimized Mongo/Infinispan as a container image) will be uploaded to DockerHub and the instructions to retrieve them and configure Mayan-DS will be shared here.
+
+Citation
+=========
+This framework is partly described in our publication currently under review at Wiley CCPE.
+
 Messaging4Transport
 ========
 Message Oriented Middleware Bindings for MD-SAL
