@@ -1,6 +1,6 @@
 Mayan-DS
 ========
-Mayan-DS is a framework for Software-Defined Data Services. It extends OpenDaylight Messaging4Transport (SDN+MOM) and uses IMDGs and NoSQL data stores in conjunction to build network-aware big data workflows.
+Mayan-DS is a framework and deployment architecture for Software-Defined Data Services. It extends OpenDaylight Messaging4Transport (SDN+MOM) and uses In-Memory Data Grids (IMDGs) and NoSQL data stores in conjunction to build network-aware big data workflows.
 
 In Progress
 ===========
